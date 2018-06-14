@@ -16,7 +16,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 // This GA tracking code is linked to ewright@mozilla.com,
 // contact them to request access to the GA data
-ga('create', 'UA-98252211-1', 'auto');
+ga('create', '', 'auto');
 
 function getEnv() {
   return process.env.NODE_ENV;

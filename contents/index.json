@@ -5,24 +5,6 @@
     "hidden": true
   },
   {
-    "title": "Photon Design",
-    "directory": "introduction",
-    "pages": [
-      {"title": "Principles",
-        "file": "principles.html"
-      },
-      {"title": "Design for Scale",
-        "file": "design-for-scale.html"
-      },
-      {"title": "Design for Performance",
-        "file": "design-for-performance.html"
-      },
-      {"title": "Design for Inclusion",
-        "file": "design-for-inclusion.html"
-      }
-    ]
-  },
-  {
     "title": "Visuals",
     "directory": "visuals",
     "pages": [
@@ -38,37 +20,9 @@
       {"title": "Iconography",
         "file": "iconography.html"
       },
-      {"title": "Illustration",
-        "file": "illustration.html"
-      },
       {"title": "Product Identity Assets",
         "file": "product-identity-assets.html"
       }
-    ]
-  },
-  {
-    "title": "Motion",
-    "directory": "motion",
-    "pages": [
-      {"title": "Motion Principles",
-        "file": "principles.html"},
-      {"title": "Duration and Easing",
-        "file": "duration-and-easing.html"}
-    ]
-  },
-  {"title": "Copy",
-    "directory": "copy",
-    "pages": [
-      {"title": "Voice and Tone",
-        "file": "voice-and-tone.html"},
-      {"title": "Writing for Users",
-        "file": "writing-for-users.html"},
-      {"title": "Capitalization",
-        "file": "capitalization.html"},
-      {"title": "Punctuation",
-        "file": "punctuation.html"},
-      {"title": "Word List",
-        "file": "word-list.html"}
     ]
   },
   {"title": "Patterns",
@@ -76,17 +30,8 @@
     "pages": [
       {"title": "Errors",
         "file": "errors.html"},
-      {"title": "Helpers",
-        "file": "helpers.html",
-        "draft": "true"},
       {"title": "Inactive",
         "file": "inactive.html"},
-      {"title": "Nesting",
-        "file": "nesting.html",
-        "draft":"true"},
-      {"title": "Overlay",
-        "file": "overlay.html",
-        "draft":"true"},
       {"title": "Shadows",
         "file": "shadows.html"},
       {"title": "Warnings",
@@ -100,12 +45,6 @@
         "file": "buttons.html"},
       {"title": "Checkboxes",
         "file": "checkboxes.html"},
-      {"title": "Card",
-        "file": "card.html",
-        "draft":"true"},
-      {"title": "Doorhangers",
-        "file": "doorhangers.html",
-        "draft": "true"},
       {"title": "Input Fields",
         "file": "input-fields.html"},
       {"title": "Link",
@@ -127,9 +66,6 @@
       },
       {"title": "Fonts",
         "file": "fonts.html"
-      },
-      {"title": "Design Tokens",
-        "file": "design-tokens.html"
       }
     ]
   }

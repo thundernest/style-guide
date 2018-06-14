@@ -1,4 +1,4 @@
-'use strict';
+ 'use strict';
 
 const React = require('react');
 const { sendEvent } = require('./utilities.js');
@@ -29,37 +29,7 @@ const Feedback = connect(state => {
 
   render: function() {
     return(
-      <div className="center mw7 ph3 mb5">
-        {this.props.feedback_ask &&
-          <div className="w-100 bg-white shadow-3 br2 pa3 flex-ns justify-between-ns items-center-ns">
-            <p className="mt0 mb3 mb0-ns lh-copy tc"
-                id="feedback-text"
-            >{'Tell us, is the content of this page helpful?'}</p>
-            <p className="ma0 flex justify-around">
-              <a className="mr4-ns no-underline f3 lh-copy dib"
-                  id="thumbs-up"
-                  onClick={this.handleClick}
-                  title="Send us some ❤️"
-              >{'👍'}
-              </a>
-              <a className="no-underline f3 lh-copy dib"
-                  id="thumbs-down"
-                  onClick={this.handleClick}
-                  title="File an issue on GitHub"
-              >{'👎'}
-              </a>
-            </p>
-          </div>
-        ||
-        <div className="w-100 ba b--light-gray br2 pv2 ph3 flex justify-between items-center">
-          <span className="lh-copy"
-              id="feedback-text"
-          >{'Thank you for the feedback!'}</span>
-          <a className="close-feedback"
-              onClick={this.handleXClick}
-          ></a>
-        </div>
-        }
+      <div className="center mw7 ph3 mb5" >
       </div>)
   }
 }));
