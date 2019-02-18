@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photon Design System</title>
+    <description>The Photon Design System houses guidelines, reusable UI components, templates, and other resources to help you create products for Thunderbird users.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Feb 2019 19:54:11 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Feb 2019 19:54:11 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>
