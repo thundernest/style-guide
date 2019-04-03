@@ -20,7 +20,7 @@ You can help us improve the system and ensure it remains current and relevant.
 
 #### Share with us
 
-  [Share with us](https://github.com/thundernest/thunderbird-photon/issues) so we can add or improve components and patterns.
+  [Share with us](https://github.com/thundernest/style-guide/issues) so we can add or improve components and patterns.
 </div>
 
 <div markdown="1">
@@ -28,7 +28,7 @@ You can help us improve the system and ensure it remains current and relevant.
 
 #### File an issue
 
-  [Let us know](https://github.com/thundernest/thunderbird-photon/issues) if we are missing components or our advice isn’t clear and actionable.
+  [Let us know](https://github.com/thundernest/style-guide/issues) if we are missing components or our advice isn’t clear and actionable.
 </div>
 
 <div markdown="1">
