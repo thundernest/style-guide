@@ -4,10 +4,10 @@
     <title>Thunderbird Style Guide</title>
     <description>The Photon Design System houses guidelines, reusable UI components, templates, and other resources to help you create products for Thunderbird users.
 </description>
-    <link>https://style-stage.thunderbird.net/</link>
-    <atom:link href="https://style-stage.thunderbird.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Apr 2019 22:00:06 -0700</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 22:00:06 -0700</lastBuildDate>
+    <link>https://style.thunderbird.net/</link>
+    <atom:link href="https://style.thunderbird.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Apr 2019 22:15:37 -0700</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2019 22:15:37 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
   </channel>
